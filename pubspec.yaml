@@ -1,0 +1,13 @@
+name: dio_domain_fronting
+description: A DomainFronting plugin for dio.
+version: 1.0.1
+homepage: https://github.com/xioxin/dio_domain_fronting
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  dio: ^4.0.0
+
+dev_dependencies:
+  test: ^1.16.4

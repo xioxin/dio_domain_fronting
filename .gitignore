@@ -1,0 +1,11 @@
+# Files and directories created by pub.
+.dart_tool/
+.packages
+
+# Conventional directory for build output.
+build/
+
+test/myserver_test.dart
+
+.DS_Store
+.idea
